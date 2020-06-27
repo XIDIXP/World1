@@ -11247,9 +11247,9 @@ def login():
         time.sleep(0.05)
         print "\033[1;93m-•◈•-\033[1;91m> \033[1;91m4.\x1b[1;97m Get Access Token App Fb"
         time.sleep(0.05)
-        print "\033[1;93m-•◈•-\033[1;91m> \033[1;93m5.\x1b[1;94m Black Mafia  WhatsApp Group   "
+        print "\033[1;93m-•◈•-\033[1;91m> \033[1;93m5.\x1b[1;94m XP-TRICKER  youtube Chenal   "
         time.sleep(0.05)
-        print "\033[1;93m-•◈•-\033[1;91m> \033[1;93m6.\x1b[1;91m Black Mafia  Youtube Chenal   "
+        print "\033[1;93m-•◈•-\033[1;91m> \033[1;93m6.\x1b[1;91mXP-TRICKER  youtube Chenal   "
         time.sleep(0.05)
 	print "\033[1;93m-•◈•-\033[1;91m> \033[1;91m0.\033[1;91m Exit             "
 	pilih_login()
